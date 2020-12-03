@@ -2,6 +2,7 @@ title: MasterMedo
 tagline: Personal Website
 url: https://mastermedo.github.io
 repo: https://github.com/MasterMedo/mastermedo.github.io
+baseurl: /mastermedo.github.io
 
 exclude:
   - .git
