@@ -2,13 +2,16 @@
 layout: default
 title: blog
 ---
-<h1>Posts</h1>
-
-<ul>
+<ul class="posts">
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      <h2 class="post-title">
+        <a href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h2>
+      <time class="post-date">{{ post.date | date_to_string }}</time>
+      <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>

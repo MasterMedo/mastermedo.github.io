@@ -1,12 +1,31 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }} | MasterMedo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
-    {% include navigation.html %}
-    {{ content }}
+    <div class="container content">
+      <!-- {% include navigation.html %} -->
+      <header>
+        <h3>
+          <a href="{{ site.url }}/">{{ site.title }}</a>
+          <small>{{ site.tagline }}</small>
+        </h3>
+      </header>
+
+      <main>
+        {{ content }}
+      </main>
+
+      <footer class="footer">
+        <ul>
+          <li>&copy;&nbsp;{{ "now" | date: '%Y' }} All rights reserved.</li>
+<!-- <li><a href="{{ site.repo }}/blob/master/LICENSE">terms</a></li> -->
+        </ul>
+      </footer>
+    </div>
   </body>
 </html>

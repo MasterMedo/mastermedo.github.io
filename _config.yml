@@ -1,1 +1,21 @@
-# theme: jekyll-theme-slate
+title: MasterMedo
+tagline: Personal Website
+url: https://mastermedo.github.io
+repo: https://github.com/MasterMedo/mastermedo.github.io
+
+exclude:
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+author:
+  name: Mislav Vuletić
+  url: https://mastermedo.github.io
+  email: mislav.vuletic@gmail.com
+
+github:
+  name: MasterMedo
+  url: https://github.com/MasterMedo
