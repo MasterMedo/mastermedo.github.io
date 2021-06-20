@@ -1,31 +1,14 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
-  </head>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include moon.html -%}
+  {%- include head.html -%}
   <body>
-    <div class="container content">
-      <!-- {% include navigation.html %} -->
-      <header>
-        <h3>
-          <a href="{{ site.url }}/">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
-        </h3>
-      </header>
-
-      <main>
+    {%- include header.html -%}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
         {{ content }}
-      </main>
-
-      <footer class="footer">
-        <ul>
-          <li>&copy;&nbsp;{{ "now" | date: '%Y' }} All rights reserved.</li>
-<!-- <li><a href="{{ site.repo }}/blob/master/LICENSE">terms</a></li> -->
-        </ul>
-      </footer>
-    </div>
+      </div>
+    </main>
+    {%- include footer.html -%}
   </body>
 </html>

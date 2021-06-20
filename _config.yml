@@ -1,22 +1,36 @@
-title: MasterMedo
-tagline: Personal Website
-url: https://mastermedo.github.io
-repo: https://github.com/MasterMedo/mastermedo.github.io
-baseurl: /mastermedo.github.io
+title:
+email: mislav.vuletic@gmail.com
+description: >- # this ignores values until a new key in yaml
+  The home of Mislav Vuletić (MasterMedo), a Software Engineer who likes
+  building things. A showcase of the publicly discloseable work I've done over
+  the years.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: MasterMedo
+linkedin_username: MasterMedo
+author: Mislav Vuletić
 
-exclude:
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
-author:
-  name: Mislav Vuletić
-  url: https://mastermedo.github.io
-  email: mislav.vuletic@gmail.com
-
-github:
-  name: MasterMedo
-  url: https://github.com/MasterMedo
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

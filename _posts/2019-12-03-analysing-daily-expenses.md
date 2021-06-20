@@ -1,5 +1,9 @@
 ---
 layout: post
+title: Analysing Daily Expenses
+date: 2019-12-03 09:32:30 +0200
+author: Mislav Vuletić
+categories: posts
 ---
 ## Motivation
 
@@ -27,7 +31,7 @@ Due to the specific nature of objectives it is highly unlikely the needed data w
 That is why, starting from 19th of September 2018, I started keeping
 track of my daily expenses in the following form:
 
-```verbatim
+```yaml
 1   hrk - croatian kuna, amount of money spent in the currency of Croatia,
 2   vendor - company that I bought an item/service from,
 3   date - DD.MM.YYYY or DD.MM.,
@@ -76,7 +80,7 @@ df = pd.read_csv('./expenses.csv')
 print(df.iloc[90:130, :11])
 ```
 
-![raw](./img/raw_data.png)
+![raw](/assets/img/raw_data.png)
 
 Upon quick inspection one can denote the marginal scarcity of data in the last few columns.
 What is more, in the last couple of rows the dates aren't even fully completed.
@@ -137,7 +141,7 @@ df = df.apply(transform_row, axis=1) # applying the function to each row
 print(df.iloc[90:130, :11])
 ```
 
-![processed](./img/processed_data.png)
+![processed](/assets/img/processed_data.png)
 
 Most of the data is filled, the data that isn't won't be used in plotting our graphs anyway so there is no need to fill out the rest.
 Now it's time to start answering questions!
@@ -163,7 +167,7 @@ plt.title('percentage of money spend on each category')
 plt.show()
 ```
 
-![categorypiechart](./img/category_pie_chart.png)
+![categorypiechart](/assets/img/category_pie_chart.png)
 
 The chart isn't all that surprising.
 What maybe catches one's eye is the transport cost which seems unbelievably low.
@@ -193,7 +197,7 @@ plt.title('preferred public transport')
 plt.show()
 ```
 
-![transportpiechart](./img/transport_pie_chart.png)
+![transportpiechart](/assets/img/transport_pie_chart.png)
 
 This chart poses more questions than it answers, but, since this should be somewhat of a short read it is beneficial not to delve into the depths here because more interesting things are on the radar.
 
@@ -232,7 +236,7 @@ plt.legend(list(zip(*bars))[0], all_categories)
 plt.show()
 ```
 
-![stackedbarchart](./img/stacked_bar_chart.png)
+![stackedbarchart](/assets/img/stacked_bar_chart.png)
 
 What does this chart tell us?
 Firstly, pizza hut's *Big cheesy B* is not worth 20 euros (the Stockholm fast food expense), even if you split the bill with your significant
@@ -271,7 +275,7 @@ plt.ylabel('amount of money in eur')
 plt.show()
 ```
 
-![dailybarchart](./img/daily_bar_chart.png)
+![dailybarchart](/assets/img/daily_bar_chart.png)
 
 The severe peaks do not belong to travelling, it's weekly shopping and rent that
 causes such irregularities.
@@ -394,7 +398,7 @@ plt.show()
 - navy/blue: `ypred`, predicted points before backward elimination
 - red: `ypredopt`, predicted points after backward elimination
 
-![regression](./img/linear_regression.png)
+![regression](/assets/img/linear_regression.png)
 
 Initially the results put me in a spot of bother.
 The backward elimination threw away all the data altogether.

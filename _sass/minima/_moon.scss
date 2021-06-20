@@ -1,0 +1,89 @@
+$size: 70vmin;
+
+.moonbox {
+  background: #22354f;
+}
+
+.moon {
+  position: relative;
+  margin-left: 10vw;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  width: $size/2;
+  height: $size/2;
+  border-radius: 50%;
+  background-color: LightGrey;
+}
+
+.moon:after {
+  position: absolute;
+  z-index: 2;
+  content: '';
+  width: $size/2;
+  height: $size/2;
+  border-radius: 50%;
+  background: transparent;
+  box-shadow: -$size/15/2 -$size/25/2 $size/12/2 10px rgba(111,111,111,0.3) inset,
+              0 0 $size/15/2 2px #0F0F0F,
+              0 0 $size/2/2 $size/3/2 rgba(255, 255, 255, 0.07);
+  transform: rotate(70deg);
+}
+
+.spot-W {
+  margin-top: 1.2*$size/3/2;
+  margin-left: -$size/20/2;
+  height: $size/6/2;
+  width: $size/25/2;
+}
+
+.spot-NW {
+  margin-top: $size/3/2;
+  margin-left: $size/5/2;
+  height: $size/4/2;
+  width: $size/4/2;
+}
+
+.spot-N {
+  margin-top: $size/40/2;
+  margin-left: $size/3/2;
+  height: $size/25/2;
+  width: $size/6/2;
+}
+
+.spot-E {
+  margin-top: $size/3/2;
+  margin-left: 6*$size/8/2;
+  height: $size/15/2;
+  width: $size/15/2;
+}
+
+.spot-SE {
+  margin-top: 3.3*$size/5/2;
+  margin-left: 4.5*$size/8/2;
+  height: $size/7/2;
+  width: $size/7/2;
+}
+
+.spot-S {
+  margin-top: 38*$size/40/2;
+  margin-left: $size/3/2;
+  height: $size/25/2;
+  width: $size/6/2;
+}
+
+.spot-SW {
+  margin-top: 3*$size/4/2;
+  margin-left: $size/8/2;
+  height: $size/15/2;
+  width: $size/15/2;
+}
+
+.spot {
+  z-index: 2;
+  border-radius: 50%;
+  position: absolute;
+  background-color: DarkGrey;
+  transform: translate($size/12/2);
+  box-shadow: $size/50/2 0 0 0 #7F7F7F inset,
+              0 0 1px 1px #4F4F4F;
+}
