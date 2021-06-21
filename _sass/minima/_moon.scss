@@ -2,11 +2,13 @@ $size: 70vmin;
 
 .ground {
   width: 100%;
+  overflow: hidden;
+  margin: -1px;
+  transform: scale(1.02, 1.5);
 }
 
 .moonbox {
   background: #22354f;
-  box-shadow: inset -1px -1px 0px #fff;
 }
 
 .moon {
