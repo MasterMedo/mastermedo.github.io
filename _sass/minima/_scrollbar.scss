@@ -2,13 +2,19 @@ body {
   overflow: overlay;
 }
 
+::-webkit-scrollbar {
+  width: 7px;
+}
+
 ::-webkit-scrollbar-thumb {
   height: 6px;
   background-clip: padding-box;
-  background-color: rgba(0, 0, 0, 0.5);
-  -webkit-border-radius: 7px;
-  -webkit-box-shadow: inset -1px -1px 0px rgba(0, 0, 0, 0.05),
-    inset 1px 1px 0px rgba(0, 0, 0, 0.05);
+  background-color: #CFCFCF;
+  -webkit-border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #909090;
 }
 
 ::-webkit-scrollbar-track,
