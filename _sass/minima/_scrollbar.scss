@@ -1,0 +1,22 @@
+body {
+  overflow: overlay;
+}
+
+::-webkit-scrollbar-thumb {
+  height: 6px;
+  background-clip: padding-box;
+  background-color: rgba(255, 0, 0, 0);
+  -webkit-border-radius: 7px;
+  -webkit-box-shadow: inset -1px -1px 0px rgba(0, 0, 0, 0.05),
+    inset 1px 1px 0px rgba(0, 0, 0, 0.05);
+}
+
+::-webkit-scrollbar,
+::-webkit-scrollbar-button,
+::-webkit-scrollbar-track,
+::-webkit-scrollbar-track-piece,
+::-webkit-scrollbar-corner {
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
