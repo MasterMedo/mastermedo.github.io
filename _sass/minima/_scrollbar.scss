@@ -11,12 +11,15 @@ body {
     inset 1px 1px 0px rgba(0, 0, 0, 0.05);
 }
 
-::-webkit-scrollbar,
-::-webkit-scrollbar-button,
 ::-webkit-scrollbar-track,
 ::-webkit-scrollbar-track-piece,
-::-webkit-scrollbar-corner {
+::-webkit-scrollbar-button,
+::-webkit-scrollbar-corner,
+::-webkit-scrollbar {
   visibility: hidden;
+}
+
+::-webkit-scrollbar-button {
   width: 0;
   height: 0;
 }
