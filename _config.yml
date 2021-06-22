@@ -9,6 +9,18 @@ url: https://mastermedo.github.io
 github_username: MasterMedo
 linkedin_username: MasterMedo
 author: Mislav Vuletić
+show_excerpts: true
+permalink: /:collection/:title:output_ext
+
+header_pages:
+  - about
+  - projects
+  - posts
+  - stories
+
+collections:
+  posts:
+  stories:
 
 # Build settings
 theme: minima
