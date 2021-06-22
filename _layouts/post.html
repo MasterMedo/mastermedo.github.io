@@ -10,9 +10,13 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">
+          {% if page.author %}
+            {{ page.author }}
+          {% else %}
+            {{ site.author}}
+          {% endif %}
+        </span></span>
       <span itemprop="duration" itemscope itemtype="http://schema.org/Duration">
         <span class="p-author h-card" itemprop="name">
           • {{ page.content | number_of_words | divided_by: 200 }} minute(s)
