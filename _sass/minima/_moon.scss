@@ -4,6 +4,8 @@ $size: 70vmin;
   width: 100%;
   margin: -1px;
   transform: scale(1.02, 1.5);
+  user-drag: none;
+  -webkit-user-drag: none;
   user-select: none;
   -webkit-user-select: none;
   -moz-user-select: none;
