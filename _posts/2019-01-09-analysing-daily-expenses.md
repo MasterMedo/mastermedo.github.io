@@ -1,11 +1,6 @@
 ---
 layout: post
-title: Analysing Daily Expenses
-author: Mislav Vuletić
-categories: posts
 ---
-## Motivation
-
 Each day people spend money on various things.
 Each transaction holds a bunch of meta information.
 Instead of going to waste, that information can be used to learn about one's tendencies.
