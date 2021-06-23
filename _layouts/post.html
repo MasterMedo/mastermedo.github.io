@@ -19,7 +19,7 @@ layout: default
         </span></span>
       <span itemprop="duration" itemscope itemtype="http://schema.org/Duration">
         <span class="p-author h-card" itemprop="name">
-          • {{ page.content | number_of_words | divided_by: 200 }} minute(s)
+          • {{ page.content | number_of_words | divided_by: 200 | plus: 1 }} minute(s)
         </span>
       </span>
     </p>
