@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 Each day people spend money on various things.
 Each transaction holds a bunch of meta information.

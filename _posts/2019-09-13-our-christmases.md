@@ -1,5 +1,4 @@
 ---
-layout: post
 categories: stories
 ---
 A loud thump echoed, followed by a splash.

@@ -18,6 +18,14 @@ header_pages:
   - posts
   - stories
 
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+
 # Build settings
 theme: minima
 plugins:
