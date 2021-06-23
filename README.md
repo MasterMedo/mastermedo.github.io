@@ -21,7 +21,14 @@
 - create a sun instead of a moon
 - show a sun during the day, moon during the night (based on user time)
 - create a dark theme and a light theme
+  - change syntax highlighting
 - customize navigator sandwich on small devices
 - set up google analytics
 - write `ground` svg in css manually (in hopes it cannot be selected)
 - check if rss feed works
+  - subscribe only to tech content
+- add favicon
+- change tab titles
+- add language switch for stories
+- when opening a site have it be scrolled till half moon
+- have a timeline next to all posts (a vertical line) next to which it says how old I was when I wrote something when the year changes
