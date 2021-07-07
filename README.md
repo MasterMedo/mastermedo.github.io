@@ -28,3 +28,6 @@
 - add language switch for stories
 - when opening a site have it be scrolled till half moon
 - have a timeline next to all posts (a vertical line) next to which it says how old I was when I wrote something when the year changes
+- create `align` option on poems and stories (left, center, right)
+- create a `stand out` tag - something similar to reddits comment highlights
+- add tags to posts like: technologies (python, memgraph), fields (data science, economics), ...
