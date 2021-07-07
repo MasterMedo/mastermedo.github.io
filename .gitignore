@@ -2,3 +2,4 @@
 /.jekyll-cache
 *.lock
 .sass-cache/
+/_drafts
