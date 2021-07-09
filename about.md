@@ -2,6 +2,7 @@
 layout: page
 title: about me
 permalink: /about
+redirect_from: /
 ---
 
 Hi, I'm Mislav, a software engineer from Croatia.
