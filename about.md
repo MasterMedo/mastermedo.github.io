@@ -10,5 +10,5 @@ In my free time I code terminal clients, build websites, attend coding competiti
 
 Apart from coding, I hit the gym every day, run fifty kilometres a week, and hike at least twice a month.
 For the last two years I've been playing a bunch of board games; Nidavellir and Root are my favourites.
-Usually I'm alone on my quests but every now and then a brave soul joins the fun.
+Usually, I'm alone on my quests but every now and then a brave soul joins the fun.
 If you're interested in any activity mentioned above don't hesitate to reach out.
