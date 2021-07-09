@@ -198,4 +198,13 @@
       @include relative-font-size(1.125);
     }
   }
+
+  ul {
+    list-style: disc;
+  }
+
+  li::before {
+    content: "";
+    padding-right: 10px;
+  }
 }

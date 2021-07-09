@@ -1,7 +1,6 @@
 # mislav.dev
 
 # TODO
-- customize html lists
 - move home page to posts
   - add old posts and essays
 - create a home page
