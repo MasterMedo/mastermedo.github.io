@@ -14,11 +14,14 @@ layout: default
           {% if page.author %}
             {{ page.author }}
           {% else %}
-            {{ site.author}}
+            <a href="/about" style="color: grey;">
+
+              {{ site.author}}
+            </a>
           {% endif %}
         </span></span>
       <span itemprop="duration" itemscope itemtype="http://schema.org/Duration">
-        <span class="p-author h-card" itemprop="name">
+        <span class="h-card" itemprop="name">
           • {{ page.content | number_of_words | divided_by: 200 | plus: 1 }} minute(s)
         </span>
       </span>
