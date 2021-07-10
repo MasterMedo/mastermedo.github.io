@@ -14,8 +14,8 @@ In my free time I code terminal clients, build websites, attend coding competiti
 [Advent of Code](https://adventofcode.com) is my favourite competition, I went as far as completing every puzzle of each year for a total of 300 puzzles, and was within top 250 to do it.
 
 I enjoy waking up early, if I'm not up by 6 am; hell has probably gone cold.
-Apart from coding, I hit the gym every day, run fifty kilometres a week, and hike at least twice a month.
+I hit the gym every day, run fifty kilometres a week, and hike at least twice a month.
 Physical activities help me break mental barriers and keep me focused on my goals.
-For the last two years I started practising playing board games with people I meet, I highly recommend [Unlock!](https://www.spacecowboys.fr/unlock-english), [Nidavellir](https://www.grrre-games.com/nidavellir) and [Root](https://ledergames.com/products/root-a-game-of-woodland-might-and-right).
-Usually, I'm alone on my quests, but every now and then a brave soul joins the fun.
+For the past two years I started practising playing board games with people I meet, I highly recommend [Unlock!](https://www.spacecowboys.fr/unlock-english), [Nidavellir](https://www.grrre-games.com/nidavellir) and [Root](https://ledergames.com/products/root-a-game-of-woodland-might-and-right).
+Usually, I'm alone in my quests, but every now and then a brave soul joins the fun.
 If you're interested in any activity mentioned above don't hesitate to reach out.
