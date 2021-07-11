@@ -11,7 +11,7 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       {%- if post.categories contains category or category == 'posts' and post.categories == empty -%}
-      <li>
+      <li class="{{post.highlight}}">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>

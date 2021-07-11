@@ -111,8 +111,9 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color: darken($brand-color, 15%);
     text-decoration: underline;
+    text-decoration-thickness: 2px;
   }
 
   .social-media-list &:hover {
@@ -185,8 +186,8 @@ pre {
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+    padding-right: $spacing-unit / 3;
+    padding-left: $spacing-unit / 3;
   }
 }
 

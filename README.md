@@ -18,8 +18,7 @@ functionality
   - check site on all popular browsers
   - set up google analytics
   - check if rss feed works
-    - subscribe only to tech content
-  - add language switch for stories
+    - subscribe only to projects/stories
+  - add language switch
   - create an `align` option on poems and stories (left, center, right)
-  - create a `stand out` tag - something similar to reddits comment highlights
   - add tags to posts like: technologies (python, memgraph), fields (data science, economics), ...
