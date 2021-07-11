@@ -145,7 +145,7 @@
   }
 
   > li[class=shadow] {
-      box-shadow: rgba(255, 255, 0, 0.55) 0 0 2em;
+      box-shadow: rgba(255, 255, 0, 0.55) 0 0 calc(max(min(100vw - #{$min-width}, 2em), 10px));
     }
   > li[class=gradient] {
       background: linear-gradient(200deg, rgba(255, 255, 0, 0.4) 2%, rgba(0, 0, 0, 0) 40%);
