@@ -1,5 +1,3 @@
 ---
-layout: page
-title: projects
-permalink: /projects
+layout: posts
 ---

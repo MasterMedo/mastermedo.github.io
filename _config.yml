@@ -16,7 +16,6 @@ header_pages:
   - about
   - resume
   - projects
-  - posts
   - stories
 
 defaults:

@@ -2,12 +2,9 @@
 
 # TODO
 pages
-  - create a home page
-  - create resume page
-  - create a projects page
-    - find a way to integrate with github actions to show latest work
-  - edit the about me page
-    - add an image
+  - create a home page (something flashy)
+  - create resume page (html)
+  - add an image to the about me page
 
 design
   - change font (especially navigator font and font size)
