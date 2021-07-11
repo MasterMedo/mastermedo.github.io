@@ -1,5 +1,6 @@
 ---
 categories: stories
+highlight: shadow
 ---
 A loud thump echoed, followed by a splash.
 A small head peeped above the large white pile and gazed upon the sky as it was starting to snow.
