@@ -1,10 +1,12 @@
 # mislav.dev
 
 # TODO
-pages
+content
   - create a home page (something flashy)
   - create resume page (html)
   - add an image to the about me page
+  - add project readmes from github
+  - get someone to proof read all content
 
 design
   - change font (especially navigator font and font size)
@@ -21,4 +23,6 @@ functionality
     - subscribe only to projects/stories
   - add language switch
   - create an `align` option on poems and stories (left, center, right)
-  - add tags to posts like: technologies (python, memgraph), fields (data science, economics), ...
+  - add tags to posts like: python, poems, stories, love, moments, machine learning, analysing, dataset, quotes
+  - add filtering by tags
+  - add related posts
