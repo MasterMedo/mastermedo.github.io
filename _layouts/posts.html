@@ -14,6 +14,12 @@ layout: default
       <li class="{{post.highlight}}">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span itemprop="duration" itemscope itemtype="http://schema.org/Duration">
+          <span class="post-meta" itemprop="name">
+            • {{ post.content | number_of_words | divided_by: 200 | plus: 1 }} minute(s)
+          </span>
+        </span>
+
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
