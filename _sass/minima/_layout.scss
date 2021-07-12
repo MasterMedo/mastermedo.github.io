@@ -27,16 +27,18 @@
 .site-nav {
   float: right;
   text-align: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
   width: 100%;
   overflow: auto;
+  font-family: $serif-font-family;
+  font-size: $base-font-size;
+  font-weight: 600;
 
   .nav-trigger {
       display: none;
   }
 
   .page-link {
-    color: $text-color;
+    color: $brand-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -142,6 +144,9 @@
     margin-bottom: $spacing-unit;
     border-radius: 1em;
     padding: calc(max(min(100vw - #{$min-width}, #{$spacing-unit}), 5px));
+    > p {
+      font-family: $serif-font-family;
+    }
   }
 
   > li[class=shadow] {
@@ -185,6 +190,7 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  font-family: $serif-font-family;
 
   h2 {
     @include relative-font-size(2);

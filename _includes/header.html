@@ -3,7 +3,7 @@
     <nav class="site-nav">
       <div class="trigger">
         {%- for page in site.header_pages -%}
-          <a class="page-link" href="{{ page | relative_url }}">{{ page | escape }}</a>
+          <a class="page-link" href="{{ page | relative_url }}">{{ page | escape | capitalize }}</a>
         {%- endfor -%}
       </div>
     </nav>

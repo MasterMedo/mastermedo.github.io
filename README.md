@@ -9,7 +9,6 @@ content
   - get someone to proof read all content
 
 design
-  - change font (especially navigator font and font size)
   - add stars in the night sky
   - show a sun during the day, moon during the night (based on user time)
   - create a dark theme and a light theme
