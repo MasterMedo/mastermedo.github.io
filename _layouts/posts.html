@@ -30,6 +30,9 @@ layout: default
             {{ post.excerpt | strip_html | stip_newlines }}
           {%- endif -%}
         </p>
+        {%- if post.image -%}
+          <img src="/assets/img/{{post.image}}">
+        {%- endif -%}
       </li>
       {%- endif -%}
       {%- endfor -%}
