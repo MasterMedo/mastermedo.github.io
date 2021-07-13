@@ -1,5 +1,6 @@
 ---
 category: projects
+github: https://github.com/MasterMedo/daily-expense-manager
 ---
 Each day people spend money on various things.
 Each transaction holds a bunch of meta information.

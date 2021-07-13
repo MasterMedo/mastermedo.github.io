@@ -1,12 +1,13 @@
 # mislav.dev
 
-# TODO
+## TODO
 content
   - create a home page (something flashy)
   - create resume page (html)
   - add an image to the about me page
   - add project readmes from github
   - get someone to proof read all content
+  - record asciinema for typetest
 
 design
   - add stars in the night sky
@@ -25,3 +26,4 @@ functionality
   - add tags to posts like: python, poems, stories, love, moments, machine learning, analysing, dataset, quotes
   - add filtering by tags
   - add related posts
+  - add github links to projects

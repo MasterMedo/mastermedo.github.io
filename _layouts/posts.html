@@ -19,7 +19,17 @@ layout: default
             • {{ post.content | number_of_words | divided_by: 200 | plus: 1 }} minute(s)
           </span>
         </span>
-
+        {%- if post.github -%}
+        <span class="post-meta">•</span>
+        <a href="{{ post.github }}" title="Link to GitHub project">
+          <span class="post-meta">
+            <svg class="svg-icon">
+              <use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}">
+              </use>
+            </svg>GitHub
+          </span>
+        </a>
+        {%- endif -%}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
