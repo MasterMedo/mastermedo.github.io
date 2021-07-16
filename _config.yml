@@ -11,7 +11,7 @@ linkedin_username: MasterMedo
 author: Mislav Vuletić
 show_excerpts: true
 permalink: /:categories/:title
-google_analytics: G-30BEMRXG28
+google_analytics: "G-30BEMRXG28"
 
 header_pages:
   - about
