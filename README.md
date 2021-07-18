@@ -18,7 +18,7 @@ design
 
 functionality
   - check site on all popular browsers
-  - set up google analytics
+  - find out why google analytics doesn't sometimes (ip? browser? os? device?)
   - check if rss feed works
     - subscribe only to projects/stories
   - add language switch
