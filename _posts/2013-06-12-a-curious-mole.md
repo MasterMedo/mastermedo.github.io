@@ -25,17 +25,17 @@ He was looking at the dandelion leaf in his right hand.\
 -- We're all striving to achieve more in life -- he started, playing with the words -- One small leaf is very interesting but only until the hand stumbles upon something better and lets go of the leaf. --\
 I understood what he was trying to do.
 My eyes lit up, and my look became unbearably curious.
-I was eager to see how will he pull it off.
+I was eager to see how he will pull it off.
 He felt the wind on his back and tried to determine the direction it was blowing in as he let go of the leaf knowing it would fly towards her.
-Pretending to be catching the leaf he leaned towards her and placed left his hand on her hip.
-Her faint laughter gently echoed the field now looking at his hand.\
-His confidence and imagination grew and he continued -- But when a warm hand stumbles upon a flower which is -- he paused for a second, carefully choosing his words -- blushing. -- he added, clumsily, laughing at himself.\
+Pretending to be catching the leaf he leaned towards her and placed his left hand on her hip.
+Her faint laughter gently echoed the field as She looked at his hand.\
+His confidence and imagination grew and he continued -- But when a warm hand stumbles upon a flower, which is -- he paused for a second, carefully choosing his words -- blushing. -- he added, clumsily, laughing at himself.\
 He took a half step towards her connecting his toes with hers as he started running his fingertips up her back revealing her skin.
 Her lustful look jumped to his lips as he continued.\
 -- From the first touch the petals intertwine with the fingers and become inseparable. --\
 A sudden jolt passed through his body as she grabbed his left hand with her right and put her other one on his chest leaning onto him.\
 I was glowing with unbearable anticipation, probably being as interesting of a sight as the one I was following.
-I knew She was watching me, that little curious head.
+I knew She was watching me, that curious head.
 The play paused and I wanted to send Her a warm smile but I just couldn't take my eyes off the love birds.
 
 -- What are you looking at? -- She mumbled curiously.\
