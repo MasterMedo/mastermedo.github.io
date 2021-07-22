@@ -30,6 +30,9 @@ layout: default
           </span>
         </a>
         {%- endif -%}
+        {%- if post.audio -%}
+        <span class="post-meta">• ▶️ audio.mp3</span>
+        {%- endif -%}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}

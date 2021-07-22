@@ -39,6 +39,11 @@ layout: default
     </p>
   </header>
 
+  {% if page.audio %}
+  {% include open-embed.html %}
+  <audio src="/assets/audio/{{ page.audio }}.mp3" controls preload></audio>
+  {% endif %}
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
