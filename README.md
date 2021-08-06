@@ -26,6 +26,7 @@ functionality
   - add tags to posts like: python, poems, stories, love, moments, machine learning, analysing, dataset, quotes, audio
   - add filtering by tags
   - add related posts
+  - add read by function on audio tracks
 
 # License
 The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](./LICENSE).
