@@ -7,7 +7,7 @@ layout: default
   {%- assign default_category = page.path | split: '.' -%}
   {%- assign category = page.title | default: default_category[0] -%}
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ category | capitalize }}</h2>
+    <!-- <h2 class="post-list-heading">{{ category | capitalize }}</h2> -->
     <ul class="post-list">
       {%- for post in site.posts -%}
       {%- if post.categories contains category or category == 'posts' and post.categories == empty -%}
