@@ -12,6 +12,11 @@ layout: default
       {%- for post in site.posts -%}
       {%- if post.categories contains category or category == 'posts' and post.categories == empty -%}
       <li class="{{post.highlight}}">
+        <h3 style="margin-bottom: -10px;">
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <span itemprop="duration" itemscope itemtype="http://schema.org/Duration">
@@ -33,12 +38,7 @@ layout: default
         {%- if post.audio -%}
         <span class="post-meta">• ▶️ audio.mp3</span>
         {%- endif -%}
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <p>
+        <p style="margin-top: 10px;">
           {%- if site.show_excerpts -%}
             {{ post.excerpt | strip_html | stip_newlines }}
           {%- endif -%}
