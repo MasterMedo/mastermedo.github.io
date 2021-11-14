@@ -13,6 +13,7 @@ show_excerpts: true
 permalink: /:categories/:title
 google_analytics: "G-30BEMRXG28"
 google_tag_manager: "GTM-556MWK9"
+hotjar: true
 
 header_pages:
   - about
