@@ -5,7 +5,7 @@ description: >- # this ignores values until a new key in yaml
   building things. A showcase of the publicly discloseable work I've done over
   the years.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://mastermedo.github.io
+url: https://mislav.dev
 github_username: MasterMedo
 linkedin_username: MasterMedo
 author: Mislav Vuletić
