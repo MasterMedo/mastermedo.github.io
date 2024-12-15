@@ -2,7 +2,6 @@
 category: projects
 github: https://github.com/MasterMedo/travel-time-events
 ---
-
 Google Calendar Add-on that automatically creates calendar events to account for commute time.
 
 <img src="/assets/img/travel-events.png" width="100%">
