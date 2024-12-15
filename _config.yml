@@ -1,9 +1,7 @@
 title: Mislav Vuletić
-email: mislav.vuletic@gmail.com
+email: mislav@duck.com
 description: >- # this ignores values until a new key in yaml
-  The home of Mislav Vuletić (MasterMedo), a Software Engineer who likes
-  building things. A showcase of the publicly discloseable work I've done over
-  the years.
+  This section is called a footer (surprise, surprise).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://mislav.dev
 github_username: MasterMedo
