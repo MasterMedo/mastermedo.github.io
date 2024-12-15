@@ -3,7 +3,7 @@ category: projects
 github: https://github.com/MasterMedo/daily-expense-manager
 ---
 Each day people spend money on various things.
-Each transaction holds a bunch of meta information.
+Every financial transaction holds a bunch of meta information.
 Instead of going to waste, that information can be used to learn about one's tendencies.
 What percentage of money is spent on food? On transport? Travelling?
 How expensive are the cities that were visited?
