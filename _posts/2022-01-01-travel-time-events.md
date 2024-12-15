@@ -2,9 +2,10 @@
 category: projects
 github: https://github.com/MasterMedo/travel-time-events
 ---
-## Short description
-Travel Time Events is a Google Calendar Add-on application that creates travelling events between two calendar events that have a location.
-It calculates travel time from the origin location to the destination location by utilising the Google Maps API and creates a travel event in the "Travel time" calendar.
+
+Google Calendar Add-on that automatically creates calendar events to account for commute time.
+
+<img src="/assets/img/travel-events.png" width="100%">
 
 ## Detailed description
 Travel Time Events creates a user calendar by the name "Travel time".
