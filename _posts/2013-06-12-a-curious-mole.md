@@ -25,18 +25,15 @@ While we're resting on the ground they are strolling beside us.\
 He was looking at the dandelion leaf in his right hand.\
 "We all strive for more" he began,\
 "One leaf is interesting, but only until the hand stumbles upon something better -- and lets it go."\
-I understood what he was trying to do.
-My eyes lit up, and my look became unbearably curious.
-I was eager to see how he will pull it off.
 He felt the wind at his back, released the leaf, and watched it drift toward her.
 Pretending to be catching the leaf he leaned towards her and placed his hand on her hip.
 Her faint laughter gently echoed the field as she looked at his hand.\
-His confidence and imagination grew as he continued "But when a warm hand stumbles upon a flower that is..." he paused for a second, carefully choosing his words "...blushing." he added, clumsily, laughing at himself.\
-He took a half step towards her connecting his toes with hers as he started gliding his fingertips up her back revealing her skin.
+His confidence and imagination grew as he continued "But when a warm hand stumbles upon a flower that is..." he paused for a second, "...blushing." he added, clumsily.\
+He stepped towards her connecting their feet as he started gliding his fingertips from her hip towards the middle of her back, revealing her skin.
 Her lustful look jumped to his lips as he continued.\
 "From the first touch the petals intertwine with the fingers and become inseparable."\
-A sudden jolt passed through his body as she embraced his left hand with her right and put her other on his chest leaning onto him.\
-I was glowing with unbearable anticipation, probably being as interesting of a sight as the one I was following.
+A sudden jolt passed through his body as she embraced his left hand with her right and put her other hand on his chest, and leaned onto him.\
+I was glowing with anticipation, probably being as interesting of a sight as the one I was following.
 I knew She was watching me, Her curious head tilted.
 The play paused, but I didn't take my eyes off them out of fear they'd disappear.
 
@@ -47,7 +44,7 @@ She gazed from left to right across the meadow "And what are we doing *this time
 I teased "I'm stroking your right knee with mine, telling you another story."
 She smiled as She leaned forward, placing Her hands on the wet grass in front of Her.\
 "And what am I doing?" She pressed.\
-I glanced to the frozen figures to remind myself.
+I glanced at the frozen figures to remind myself.
 "You're so close I can feel your breath. Your hand is on my chest and your lips..."
 Before I could finish, She leaned forward onto all fours, set Her hand on my chest and pushed me gently to the ground.
 Hovering like a tiger over its prey, She leaned closer, Her lips brushing my ear, "Like this?"\
