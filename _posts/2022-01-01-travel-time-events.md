@@ -1,5 +1,6 @@
 ---
 category: projects
+image: travel-events.png
 github: https://github.com/MasterMedo/travel-time-events
 ---
 Automatically creates calendar events for commute time.
